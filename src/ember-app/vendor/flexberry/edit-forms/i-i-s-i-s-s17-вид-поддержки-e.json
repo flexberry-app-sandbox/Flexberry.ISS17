@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Вид поддержки",
+  "name": "IISISS17ВидПоддержкиE",
+  "className": "ВидПоддержкиE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-i-s-s17-вид-поддержки",
+      "modelProjection": "ВидПоддержкиE"
+    }
+  ]
+}

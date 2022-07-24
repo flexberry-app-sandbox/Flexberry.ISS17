@@ -1,0 +1,36 @@
+﻿{
+  "applicationCaption": "I s s17",
+  "applicationTitle": "I s s17",
+  "items": [
+    {
+      "link": null,
+      "menuName": "i-s-s17",
+      "caption": "ISS17",
+      "title": "ISS17",
+      "children": [
+        {
+          "link": "i-i-s-i-s-s17-вид-поддержки-l",
+          "menuName": null,
+          "caption": "Вид поддержки",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-i-s-s17-вид-поддержки-l",
+          "menuName": null,
+          "caption": "ВидПоддержкиL",
+          "title": "Вид поддержки",
+          "children": null
+        },
+        {
+          "link": "i-i-s-i-s-s17-условие-l",
+          "menuName": null,
+          "caption": "УсловиеL",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
